@@ -15,9 +15,11 @@ L'objectif est à la fois pédagogique et rétro, pour comprendre les bases de l
 - commande make (optionnel)
 
 # Installation
-git clone http://this_repo
-cd B-Compiler
+`
+git clone http://this_repo  
+cd B-Compiler  
 make
+`
 
 # Usage:
 `
