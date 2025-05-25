@@ -1,6 +1,5 @@
 # B-Compiler
 
-Description
 B-Compiler est un compilateur minimaliste pour le langage B, le prédécesseur historique du langage C.
 Ce projet vise à lire un fichier .b, analyser son code, puis exécuter ou traduire ce code en affichant le résulat.
 L'objectif est à la fois pédagogique et rétro, pour comprendre les bases de la compilation tout en manipulant un langage simple mais ancien.
