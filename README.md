@@ -20,21 +20,25 @@ cd B-Compiler
 make
 
 # Usage:
+`
 ./b_compiler your_file.b
+`
 
 # Exemple:
 
-main()
-{  
-  auto i;  
-  i = 0;  
-  while (i < 5) {  
-    putchar('H');  
-    putchar('E');  
-    putchar('L');  
-    putchar('L');  
-    putchar('O');  
-    putchar('\\n');  
-    i = i + 1;  
-  }  
-}
+`Voici un code en B :`
+
+    main()
+    {
+        auto i;
+        i = 0;
+        while (i < 5) {
+            putchar('H');
+            putchar('E');
+            putchar('L');
+            putchar('L');
+            putchar('O');
+            putchar('\\n');
+            i = i + 1;
+        }
+    }
