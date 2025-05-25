@@ -15,7 +15,7 @@ L'objectif est à la fois pédagogique et rétro, pour comprendre les bases de l
 - commande make (optionnel)
 
 # Installation
-`git clone http://this_repo  `
+`git clone https://github.com/AdrienGregoire/B-Compiler`  
 `cd B-Compiler`  
 `make`
 
